@@ -1,0 +1,11 @@
+C:\Users\Δημήτρης\Desktop\Εργασια ταχειας αναπτυξης λογισμικου MPPL17024\FrogGame MPPL17024\FrogGame MPPL17024\bin\Debug\FrogGame MPPL17024.exe.config
+C:\Users\Δημήτρης\Desktop\Εργασια ταχειας αναπτυξης λογισμικου MPPL17024\FrogGame MPPL17024\FrogGame MPPL17024\bin\Debug\FrogGame MPPL17024.exe
+C:\Users\Δημήτρης\Desktop\Εργασια ταχειας αναπτυξης λογισμικου MPPL17024\FrogGame MPPL17024\FrogGame MPPL17024\bin\Debug\FrogGame MPPL17024.pdb
+C:\Users\Δημήτρης\Desktop\Εργασια ταχειας αναπτυξης λογισμικου MPPL17024\FrogGame MPPL17024\FrogGame MPPL17024\obj\Debug\FrogGame MPPL17024.csprojResolveAssemblyReference.cache
+C:\Users\Δημήτρης\Desktop\Εργασια ταχειας αναπτυξης λογισμικου MPPL17024\FrogGame MPPL17024\FrogGame MPPL17024\obj\Debug\FrogGame_MPPL17024.Form1.resources
+C:\Users\Δημήτρης\Desktop\Εργασια ταχειας αναπτυξης λογισμικου MPPL17024\FrogGame MPPL17024\FrogGame MPPL17024\obj\Debug\FrogGame_MPPL17024.Properties.Resources.resources
+C:\Users\Δημήτρης\Desktop\Εργασια ταχειας αναπτυξης λογισμικου MPPL17024\FrogGame MPPL17024\FrogGame MPPL17024\obj\Debug\FrogGame MPPL17024.csproj.GenerateResource.cache
+C:\Users\Δημήτρης\Desktop\Εργασια ταχειας αναπτυξης λογισμικου MPPL17024\FrogGame MPPL17024\FrogGame MPPL17024\obj\Debug\FrogGame MPPL17024.csproj.CoreCompileInputs.cache
+C:\Users\Δημήτρης\Desktop\Εργασια ταχειας αναπτυξης λογισμικου MPPL17024\FrogGame MPPL17024\FrogGame MPPL17024\obj\Debug\FrogGame MPPL17024.exe
+C:\Users\Δημήτρης\Desktop\Εργασια ταχειας αναπτυξης λογισμικου MPPL17024\FrogGame MPPL17024\FrogGame MPPL17024\obj\Debug\FrogGame MPPL17024.pdb
+C:\Users\Δημήτρης\Desktop\Εργασια ταχειας αναπτυξης λογισμικου MPPL17024\FrogGame MPPL17024\FrogGame MPPL17024\obj\Debug\FrogGame_MPPL17024.Userform.resources
